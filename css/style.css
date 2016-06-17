@@ -1,0 +1,17 @@
+.menu{
+	
+	font-size:20px;
+	margin:0 15px 0 15px;
+	display: inline;
+	
+}
+
+#container{
+	background:lightgray;
+	margin: 0 auto;
+	text-align: center;
+	border:30px;
+	
+	
+	
+}
